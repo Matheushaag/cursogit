@@ -1,1 +1,2 @@
 esse é um arquivo apenas para teste do git
+alguma coisa
